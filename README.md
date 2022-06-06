@@ -1,6 +1,6 @@
 # Introduction
 
-The project compares 06 widely used search algorithms for hyperparameter optimization in machine learning in terms of convergence rate and running time. Those consist of
+The project compared 06 search algorithms for hyperparameter optimization in machine learning in terms of convergence rate and running time. Those consist of
 * Random search (random_search)
 * Bayesian Optimization with Gaussian Process (gp_search)
 * Bayesian Optimization with Random Forests (fm_search)
@@ -8,7 +8,7 @@ The project compares 06 widely used search algorithms for hyperparameter optimiz
 * Annealing Search (anneal_search)
 * Tree-structured Parzen Estimators Search (tpe_search)
 
-The project employes GradientBoostingClassifier to identify patients in the breast cancer dataset from Sklearn. While 62.7% of patients are healthy, accuracy is used as a predictive performance metric
+The project employed GradientBoostingClassifier to identify patients in the breast cancer dataset from Sklearn. While 62.7% of patients were healthy, accuracy was used as a predictive performance metric.
 
 # Outcome
 
