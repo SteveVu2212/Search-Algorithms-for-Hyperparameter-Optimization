@@ -12,4 +12,4 @@ The project employes GradientBoostingClassifier to identify patients in the brea
 
 # Outcome
 
-[](https://github.com/SteveVu2212/Search-Algorithms-for-Hyperparameter-Optimization/blob/main/Images/convergence_and_runtime.png)
+![](https://github.com/SteveVu2212/Search-Algorithms-for-Hyperparameter-Optimization/blob/main/Images/convergence_and_runtime.png)
