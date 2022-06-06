@@ -1,6 +1,6 @@
 # Introduction
 
-The project compared 06 search algorithms for hyperparameter optimization in machine learning in terms of convergence rate and running time. Those consist of
+The project compared 06 search algorithms for hyperparameter optimization in machine learning in terms of convergence speed and running time. Those consist of
 * Random search (random_search)
 * Bayesian Optimization with Gaussian Process (gp_search)
 * Bayesian Optimization with Random Forests (fm_search)
