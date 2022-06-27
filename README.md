@@ -8,7 +8,11 @@ The project compared 06 search algorithms for hyperparameter optimization in mac
 * Annealing Search (anneal_search)
 * Tree-structured Parzen Estimators Search (tpe_search)
 
-The project employed GradientBoostingClassifier to identify patients in the breast cancer dataset from Sklearn. While 62.7% of patients were healthy, accuracy was used as a predictive performance metric.
+The project applied those search algorithms to two classification models
+* Convolutional Neural Network (CNN) - Functional API to classify handwritten digits
+* Gradient Boosting to identify patients with breast cancer
+
+Below is the outcome of the GradientBoostingClassifier. While 62.7% of patients were healthy, accuracy was used as a predictive performance metric.
 
 # Outcome
 
